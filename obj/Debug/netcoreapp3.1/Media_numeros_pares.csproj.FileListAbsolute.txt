@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.exe
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.deps.json
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.runtimeconfig.json
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.dll
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\bin\Debug\netcoreapp3.1\Media_numeros_pares.pdb
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.AssemblyInfo.cs
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.dll
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.pdb
+C:\Users\Taila\Desktop\UFABC\monitoria\Media_numeros_pares\obj\Debug\netcoreapp3.1\Media_numeros_pares.genruntimeconfig.cache
